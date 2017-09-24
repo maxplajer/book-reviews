@@ -5,9 +5,7 @@ Maximilian Plajer
 ### Individual Reviews
 
 #### Everyone Exploring Data
-*Python for Everybody* begins by introducing the Python language and basic concepts of programming like conditional execution, functions, and loops. It then moves into more advanced topics like networked programs and object-oriented programming.
-
-This book is a good resource for a highly-motivated beginner to Python who may have little or no experience with programming. It seems to do a good job of overviewing the functionality of Python, but it does not focus on any specific applications of the language.
+*Python for Everybody* begins by introducing the Python language and basic concepts of programming like conditional execution, functions, and loops. It then moves into more advanced topics like networked programs and object-oriented programming. This book is a good resource for a beginner to Python who may have little or no experience with programming. It seems to do a good job of overviewing the functionality of Python, but it does not focus on any specific applications of the language.
 
 #### Fluent
 *Fluent Python* is written for competent Python programmers with the aim of teaching them specifically to code "fluently" in Python 3 - that is, to use Python-specific features that might be unfamiliar because they are not present in other programming languages. As the author notes in the preface, this book is not useful for Python beginners because it assumes a reasonable level of proficiency from the reader.
@@ -35,3 +33,10 @@ Google's Python class teaches Python for people with a little bit of experience 
 
 #### 10th Resource: [The Python Tutorial](https://docs.python.org/3/tutorial/index/html)
 The official Python tutorial aims to introduce "Python's most noteworthy features" and provide a starting point for new Python programmers. It assumes the reader is already proficient with general programming concepts. This tutorial is useful for getting started with Python but does not specifically cover scientific applications.
+
+### Best Suited
+Of these resources, these seem of the most use to me:
+
+* **Physical Modeling**: This book starts at a a basic level of programming and covers specifically the kinds of applications I expect to find most useful. I don't need any additional foundational knowledge to approach this book.
+* **Scipy Lectures**: I expect these lecture notes to be useful once I have a basic grasp of Python and need to go looking for specific tools insice Numpy, Scipy, and other libraries to complete projects. 
+* **Everyone Exploring Data**: This book could be useful for me to learn about topics above and beyond the very basics, like regular expressions, networking, and object-oriented programming.
