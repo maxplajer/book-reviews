@@ -31,7 +31,7 @@ This interactive, online tutorial starts by assuming no knowledge of programming
 #### Google
 Google's Python class teaches Python for people with a little bit of experience with some programming language. It progresses from basic concepts to "full programs dealing with text files, processes, and http connections". Video lectures, text materials, and exercises combine to form the course's material. This course does not focus specifically on scientific applications of Python.
 
-#### 10th Resource: [The Python Tutorial](https://docs.python.org/3/tutorial/index/html)
+#### 10th Resource: [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 The official Python tutorial aims to introduce "Python's most noteworthy features" and provide a starting point for new Python programmers. It assumes the reader is already proficient with general programming concepts. This tutorial is useful for getting started with Python but does not specifically cover scientific applications.
 
 ### Best Suited
@@ -42,7 +42,7 @@ Of these resources, these seem of the most use to me:
 * **Everyone Exploring Data**: This book could be useful for me to learn about topics above and beyond the very basics, like regular expressions, networking, and object-oriented programming.
 
 ### Additional resources from classmates
-* [Learn Python the Hard Way](www.learnpythonthehardway.org)
+* [Learn Python the Hard Way](https://www.learnpythonthehardway.org)
 * MIT Open Courseware 6.001, 6.002, etc.: better foundation, but takes longer
 * **Gray Hat Python**, a book for learning how low-level stuff works with Python
 * Stack Overflow for help with particular problems that others have also encountered
