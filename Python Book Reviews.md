@@ -40,3 +40,17 @@ Of these resources, these seem of the most use to me:
 * **Physical Modeling**: This book starts at a a basic level of programming and covers specifically the kinds of applications I expect to find most useful. I don't need any additional foundational knowledge to approach this book.
 * **Scipy Lectures**: I expect these lecture notes to be useful once I have a basic grasp of Python and need to go looking for specific tools insice Numpy, Scipy, and other libraries to complete projects. 
 * **Everyone Exploring Data**: This book could be useful for me to learn about topics above and beyond the very basics, like regular expressions, networking, and object-oriented programming.
+
+### Additional resources from classmates
+* [Learn Python the Hard Way](www.learnpythonthehardway.org)
+* MIT Open Courseware 6.001, 6.002, etc.: better foundation, but takes longer
+* **Gray Hat Python**, a book for learning how low-level stuff works with Python
+* Stack Overflow for help with particular problems that others have also encountered
+* **Introduction to Computation and Programming Using Python**, John Guttag
+
+### Additional notes from in class, Sept 25
+* "Everyone Exploring Data" focuses a lot on databases, and assumes some programming knowledge
+* "Whirlwind tour" is very short and includes examples
+* "Scipy lectures" has a scientific focus, is a good reference
+* "Fluent Python" is for learning to write *good* Python code once you know how to write some Python code.
+* **Take-home**: There's a range of resources, suited for different levels of proficiency
